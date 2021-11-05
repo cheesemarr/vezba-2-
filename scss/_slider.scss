@@ -1,0 +1,30 @@
+.swiper-index {
+    width: 100%;
+    height: 400px;
+    margin: 50px auto;
+
+    .swiper-slide-index {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;  
+    }
+}
+
+.swiper-h1 {
+    margin: 20px;
+}
+
+.slider-span {
+    color: $lightgray;
+    font-family: 'Lato-Light';
+}
+
+.swiper-p {
+    color: $gray;
+    font-size: 25px;
+    width: 1000px;
+    text-align: center;
+    font-family: "Lato-italic";
+}
